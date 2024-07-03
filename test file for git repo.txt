@@ -1,0 +1,8 @@
+Reading: Additional Sources of Datasets
+
+Open datasets and sources
+Proprietary datasets and sources
+Dataset license
+Open datasets and sources
+In this data-driven world, some datasets are freely available for anyone to access, use, modify, and share. These are called open datasets.
+Open datasets include a public license and are very useful for your journey as a Data Scientist. Some of the most informative open dataset sources are listed below.
